@@ -82,7 +82,7 @@ def cover(b, view="front", lazy=True):
 
 # ---------- shared chrome ----------
 def head_bar(current=""):
-    links = [(c["page"], c["name"]) for c in CATS.values()] + [("home.html#about", "About")]
+    links = [(c["page"], c["name"]) for c in CATS.values()] + [("about.html", "About")]
     nav = "".join(f'<a href="{h}"{" aria-current=page" if h == current else ""}>{e(n)}</a>' for h, n in links)
     return (f'<header class="site-head"><div class="wrap">'
             f'<a class="brand" href="home.html" aria-label="Cloverwing Studio, home"><img class="wordmark" src="img/logo-gold.webp" alt="Cloverwing Studio" width="1400" height="489">'
@@ -91,7 +91,7 @@ def head_bar(current=""):
 
 
 def foot_bar():
-    links = [(c["page"], c["name"]) for c in CATS.values()] + [("home.html#about", "About")]
+    links = [(c["page"], c["name"]) for c in CATS.values()] + [("about.html", "About")]
     if SITE.get("instagram"):
         links.append((SITE["instagram"], "Instagram @cloverwing_studio"))
     if SITE.get("lulu_store"):
@@ -185,10 +185,12 @@ def home():
                '<figure><img src="img/storefronts/hoi-an.webp" alt="The Cloverwing Studio shopfront, covered in flowers, on a street in Hoi An" width="1280" height="853">'
                '<figcaption>The shop as we picture it in Hoi An.</figcaption></figure></div></section>')
     about = ('<section class="about" id="about"><div class="wrap"><div>'
-             '<p class="eyebrow">About the studio</p><h2>The shop is wherever you are.</h2>'
-             '<p>Cloverwing Studio is a small publisher of children&rsquo;s books. We do not have a shop on a real street, '
-             'so we painted ourselves into a few of our favourite ones.</p>'
-             '<p>Our books are printed one at a time, when you order them. Nothing sits in a warehouse, and nothing is sold on this website.</p>'
+             '<p class="eyebrow">About Cloverwing Studio</p><h2>From imagination to creation.</h2>'
+             '<p>Cloverwing Studio is a small, independent creative publishing studio built on a love of stories, imagination, '
+             'and the ideas that refuse to leave us alone.</p>'
+             '<p>Behind the studio are real people with busy lives, curious minds, and far more ideas than hours in the day.</p>'
+             '<p><a class="btn alt light" href="about.html">Read our story</a></p>'
+             '<p class="eyebrow" style="margin-top:34px">How to order</p>'
              '<ol class="steps"><li>Choose a book from the shelves.</li>'
              '<li>Follow its button to Lulu or Amazon and order there.</li>'
              '<li>Your copy is printed and posted straight to you.</li></ol></div>'
@@ -296,6 +298,38 @@ def book_page(b):
     return document(f'{full_title(b)} | Cloverwing Studio', b["blurb"][0], body)
 
 
+def about_page():
+    """The About page, written from src/about.txt.
+    '# ' title, '> ' subtitle, '## ' section heading, '! ' pull quote, '= ' closing line, [text](link) links."""
+    import re
+    def inline(s):
+        return re.sub(r"\[([^\]]+)\]\(([^)]+)\)", lambda m: f'<a href="{e(m.group(2))}">{m.group(1)}</a>', e(s, quote=False))
+    out = []
+    for line in (SRC / "about.txt").read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line:
+            continue
+        if line.startswith("# "):
+            out.append(f'<h1>{inline(line[2:])}</h1>')
+        elif line.startswith("> "):
+            out.append(f'<p class="story-sub">{inline(line[2:])}</p>')
+        elif line.startswith("## "):
+            out.append(f'<h2>{inline(line[3:])}</h2>')
+        elif line.startswith("! "):
+            out.append(f'<blockquote>{inline(line[2:])}</blockquote>')
+        elif line.startswith("= "):
+            out.append(f'<p class="story-end">{inline(line[2:])}</p>')
+        else:
+            out.append(f'<p>{inline(line)}</p>')
+    body = (head_bar("about.html") + '<main><div class="wrap story">'
+            '<p class="crumb"><a href="home.html">Home</a> / About</p>'
+            '<figure><img src="img/storefronts/florence.webp" alt="The Cloverwing Studio shopfront on a street in Florence" width="1280" height="853"></figure>'
+            + "".join(out) +
+            '<p><a class="btn" href="home.html">Browse the shelves</a></p></div></main>' + foot_bar())
+    return document("About | Cloverwing Studio",
+                    "Cloverwing Studio is a small, independent creative publishing studio built on a love of stories and imagination.", body)
+
+
 def not_found():
     body = (head_bar() + '<main><section class="page-head"><div class="wrap">'
             '<p class="eyebrow">Page not found</p><h1 style="font-size:var(--t-3xl)">This shelf is empty.</h1>'
@@ -309,7 +343,7 @@ def main():
     DIST.mkdir(exist_ok=True)
     for f in ("site.css", "site.js"):
         shutil.copy(SRC / f, DIST / f)
-    pages = {"index.html": landing(), "home.html": home()}
+    pages = {"index.html": landing(), "home.html": home(), "about.html": about_page()}
     for key, fn in (("picture", picture_page), ("workbook", workbooks_page), ("colouring", colouring_page)):
         if key in CATS:
             pages[CATS[key]["page"]] = fn()
