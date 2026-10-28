@@ -1,0 +1,1346 @@
+{
+ "site": {
+  "name": "Cloverwing Studio",
+  "tagline": "Publishers of stories that stay",
+  "est": "Est. wherever stories live",
+  "url": "https://www.cloverwingstudio.net",
+  "lulu_store": "",
+  "amazon_store": "",
+  "email": "",
+  "year": 2026,
+  "instagram": "https://www.instagram.com/cloverwing_studio"
+ },
+ "books": [
+  {
+   "slug": "my-feelings",
+   "category": "picture",
+   "title": "My Feelings",
+   "hook": "Where every heart I love lights a little light in mine.",
+   "short": "Where every heart I love lights a little light in mine.",
+   "blurb": [
+    "A gentle picture book about feelings, and the people and animals we hold close."
+   ],
+   "facts": {
+    "Format": "Paperback picture book"
+   },
+   "tone": "butter",
+   "aspect": "1 / 1",
+   "links": {},
+   "covers": {
+    "front": "img/covers/my-feelings-front.webp",
+    "back": "img/covers/my-feelings-back.webp"
+   }
+  },
+  {
+   "slug": "miko-swallows-a-tooth-fairy",
+   "category": "picture",
+   "title": "Miko Swallows a Tooth Fairy",
+   "hook": "Miko’s wobbly tooth fell out in the night… and she SWALLOWED it!",
+   "short": "A gloriously snotty tooth fairy adventure.",
+   "blurb": [
+    "So Luna, a brand-new tooth fairy on her third night ever, has to pop in and find it. Down she goes — GULP! — straight into Miko’s tummy soup.",
+    "Can the Emergency Rescue Squad get her out? It’s going to take a feather, two umbrellas and the biggest, bogiest sneeze in the world.",
+    "A gloriously snotty tooth fairy adventure for anyone with a wobbly tooth."
+   ],
+   "facts": {
+    "Format": "Paperback picture book",
+    "Size": "8.5 × 8.5 in, square"
+   },
+   "tone": "sky",
+   "aspect": "1 / 1",
+   "companion": "miko-swallows-a-tooth-fairy-colouring-book",
+   "links": {},
+   "covers": {
+    "front": "img/covers/miko-swallows-a-tooth-fairy-front.webp",
+    "back": "img/covers/miko-swallows-a-tooth-fairy-back.webp"
+   }
+  },
+  {
+   "slug": "next-picture-book",
+   "category": "picture",
+   "title": "Our Next Picture Book",
+   "hook": "Title to come.",
+   "short": "A third story is on the drawing table.",
+   "blurb": [
+    "Our third picture book is on the drawing table. Its title, cover and blurb will go here."
+   ],
+   "facts": {
+    "Format": "Paperback picture book"
+   },
+   "tone": "butter",
+   "aspect": "1 / 1",
+   "links": {},
+   "covers": {},
+   "hidden": true
+  },
+  {
+   "slug": "miko-swallows-a-tooth-fairy-colouring-book",
+   "category": "colouring",
+   "title": "Miko Swallows a Tooth Fairy Colouring Book",
+   "hook": "Miko's story, ready for your pencils.",
+   "short": "Line art from the Miko story.",
+   "blurb": [
+    "The artwork from Miko Swallows a Tooth Fairy, drawn again as clean line art for colouring in."
+   ],
+   "facts": {
+    "Format": "Paperback colouring book"
+   },
+   "tone": "sky",
+   "aspect": "17 / 22",
+   "companion": "miko-swallows-a-tooth-fairy",
+   "links": {},
+   "covers": {},
+   "hidden": true
+  },
+  {
+   "slug": "african-animals-workbook-ages-6-8",
+   "category": "workbook",
+   "title": "African Animals",
+   "series": "Watch, Wonder & Write",
+   "topic": "african-animals",
+   "topic_name": "African Animals",
+   "age": "6-8",
+   "age_label": "6–8",
+   "hook": "An African adventure awaits!",
+   "short": "Ages 6–8",
+   "blurb": [
+    "How does an elephant use its trunk? Why do meerkats stand tall? Discover the amazing ways African animals live and survive.",
+    "Watch, Wonder & Write: African Animals invites young explorers to watch fascinating videos and answer simple follow-along questions.",
+    "Watch together, pause when you need to, and write down what you discover. Look closely, ask questions and meet extraordinary wildlife.",
+    "For curious explorers aged 6–8."
+   ],
+   "facts": {
+    "Publisher": "Cloverwing Digital",
+    "Series": "Watch, Wonder & Write",
+    "Ages": "6–8",
+    "Format": "Paperback workbook",
+    "You will need": "Internet access and a device that can play YouTube",
+    "Good to know": "Adult guidance is recommended. Some videos include hunting scenes. The videos are hosted independently and may change or become unavailable."
+   },
+   "tone": "clay",
+   "aspect": "1055 / 1491",
+   "links": {},
+   "covers": {
+    "front": "img/covers/african-animals-6-8-front.webp",
+    "back": "img/covers/african-animals-6-8-back.webp"
+   }
+  },
+  {
+   "slug": "african-animals-workbook-ages-9-12",
+   "category": "workbook",
+   "title": "African Animals",
+   "series": "Watch, Wonder & Write",
+   "topic": "african-animals",
+   "topic_name": "African Animals",
+   "age": "9-12",
+   "age_label": "9–12",
+   "hook": "Discover the wild beyond the familiar.",
+   "short": "Ages 9–12",
+   "blurb": [
+    "From powerful giants to elusive small mammals, African wildlife is full of surprises. Discover the adaptations and behaviours that help these animals survive.",
+    "Watch, Wonder & Write: African Animals pairs independently created videos with questions that encourage careful observation and thoughtful answers.",
+    "Follow the video links or scan the QR codes, pause when you need to, and put your discoveries into words.",
+    "For curious minds aged 9–12."
+   ],
+   "facts": {
+    "Publisher": "Cloverwing Digital",
+    "Series": "Watch, Wonder & Write",
+    "Ages": "9–12",
+    "Format": "Paperback workbook",
+    "You will need": "Internet access and a device that can play YouTube",
+    "Good to know": "Adult guidance is recommended. Some videos include hunting scenes. The videos are hosted independently and may change or become unavailable."
+   },
+   "tone": "clay",
+   "aspect": "1055 / 1491",
+   "links": {},
+   "covers": {
+    "front": "img/covers/african-animals-9-12-front.webp",
+    "back": "img/covers/african-animals-9-12-back.webp"
+   }
+  },
+  {
+   "slug": "african-animals-workbook-ages-13-16",
+   "category": "workbook",
+   "title": "African Animals",
+   "series": "Watch, Wonder & Write",
+   "topic": "african-animals",
+   "topic_name": "African Animals",
+   "age": "13-16",
+   "age_label": "13–16",
+   "hook": "Beyond the familiar wildlife.",
+   "short": "Ages 13–16",
+   "blurb": [
+    "Complex societies. Specialised bodies. Remarkable survival strategies. African animals offer a fascinating window into the natural world.",
+    "Watch, Wonder & Write: African Animals pairs independently created videos with questions that invite you to observe closely, think critically and explain what you discover.",
+    "Explore how animals adapt, interact and survive. Follow the video links or QR codes, pause when you need to, and develop your ideas at your own pace."
+   ],
+   "facts": {
+    "Publisher": "Cloverwing Digital",
+    "Series": "Watch, Wonder & Write",
+    "Ages": "13–16",
+    "Format": "Paperback workbook",
+    "You will need": "Internet access and a device that can play YouTube",
+    "Good to know": "Some videos include hunting scenes. The videos are hosted independently and may change or become unavailable."
+   },
+   "tone": "clay",
+   "aspect": "1055 / 1491",
+   "links": {},
+   "covers": {
+    "front": "img/covers/african-animals-13-16-front.webp",
+    "back": "img/covers/african-animals-13-16-back.webp"
+   }
+  },
+  {
+   "slug": "australian-animals-workbook-ages-6-8",
+   "category": "workbook",
+   "title": "Australian Animals",
+   "series": "Watch, Wonder & Write",
+   "topic": "australian-animals",
+   "topic_name": "Australian Animals",
+   "age": "6-8",
+   "age_label": "6–8",
+   "hook": "Meet Australia’s remarkable animals through 24 fascinating films.",
+   "short": "Ages 6–8",
+   "blurb": [
+    "Travel from the outback to rainforests, islands, rivers, and reefs. Watch closely, answer the questions, and write down what makes each animal special."
+   ],
+   "facts": {
+    "Publisher": "Cloverwing Digital",
+    "Series": "Watch, Wonder & Write",
+    "Ages": "6–8",
+    "Format": "Paperback workbook",
+    "You will need": "Internet access and a device that can play YouTube",
+    "Good to know": "The videos are hosted independently and may change or become unavailable."
+   },
+   "tone": "sage",
+   "aspect": "1055 / 1491",
+   "links": {},
+   "covers": {
+    "front": "img/covers/australian-animals-6-8-front.webp",
+    "back": "img/covers/australian-animals-6-8-back.webp"
+   }
+  },
+  {
+   "slug": "australian-animals-workbook-ages-9-12",
+   "category": "workbook",
+   "title": "Australian Animals",
+   "series": "Watch, Wonder & Write",
+   "topic": "australian-animals",
+   "topic_name": "Australian Animals",
+   "age": "9-12",
+   "age_label": "9–12",
+   "hook": "Explore 24 documentary films about Australia’s extraordinary wildlife.",
+   "short": "Ages 9–12",
+   "blurb": [
+    "Investigate how animals adapt to deserts, forests, rivers, islands, and reefs, and the challenges they face. Follow the questions as you watch and explain what you discover."
+   ],
+   "facts": {
+    "Publisher": "Cloverwing Digital",
+    "Series": "Watch, Wonder & Write",
+    "Ages": "9–12",
+    "Format": "Paperback workbook",
+    "You will need": "Internet access and a device that can play YouTube",
+    "Good to know": "The videos are hosted independently and may change or become unavailable."
+   },
+   "tone": "sage",
+   "aspect": "1055 / 1491",
+   "links": {},
+   "covers": {
+    "front": "img/covers/australian-animals-9-12-front.webp",
+    "back": "img/covers/australian-animals-9-12-back.webp"
+   }
+  },
+  {
+   "slug": "australian-animals-workbook-ages-13-16",
+   "category": "workbook",
+   "title": "Australian Animals",
+   "series": "Watch, Wonder & Write",
+   "topic": "australian-animals",
+   "topic_name": "Australian Animals",
+   "age": "13-16",
+   "age_label": "13–16",
+   "hook": "Across 24 films, examine the remarkable diversity of Australian wildlife.",
+   "short": "Ages 13–16",
+   "blurb": [
+    "Explore adaptation, ancient lineages, habitats, and conservation from the outback to the reef. Watch critically, connect the evidence, and write your own conclusions."
+   ],
+   "facts": {
+    "Publisher": "Cloverwing Digital",
+    "Series": "Watch, Wonder & Write",
+    "Ages": "13–16",
+    "Format": "Paperback workbook",
+    "You will need": "Internet access and a device that can play YouTube",
+    "Good to know": "The videos are hosted independently and may change or become unavailable."
+   },
+   "tone": "sage",
+   "aspect": "1055 / 1491",
+   "links": {},
+   "covers": {
+    "front": "img/covers/australian-animals-13-16-front.webp",
+    "back": "img/covers/australian-animals-13-16-back.webp"
+   }
+  },
+  {
+   "slug": "birds-of-the-world-workbook-ages-6-8",
+   "category": "workbook",
+   "title": "Birds of the World",
+   "series": "Watch, Wonder & Write",
+   "topic": "birds-of-the-world",
+   "topic_name": "Birds of the World",
+   "age": "6-8",
+   "age_label": "6–8",
+   "hook": "A world of feathers and wonder!",
+   "short": "Ages 6–8",
+   "blurb": [
+    "Why can some birds fly while others cannot? How do bright feathers, unusual beaks and clever behaviours help birds survive?",
+    "Watch, Wonder & Write: Birds of the World invites young explorers to watch fascinating videos and answer simple follow-along questions.",
+    "Watch together, pause when you need to, and write down what you discover. Look closely, ask questions and meet remarkable birds from around the world.",
+    "For curious birdwatchers aged 6–8."
+   ],
+   "facts": {
+    "Publisher": "Cloverwing Digital",
+    "Series": "Watch, Wonder & Write",
+    "Ages": "6–8",
+    "Format": "Paperback workbook",
+    "You will need": "Internet access and a device that can play YouTube",
+    "Good to know": "Adult guidance is recommended. The videos are hosted independently and may change or become unavailable."
+   },
+   "tone": "sage",
+   "aspect": "1055 / 1491",
+   "links": {},
+   "covers": {
+    "front": "img/covers/birds-of-the-world-6-8-front.webp",
+    "back": "img/covers/birds-of-the-world-6-8-back.webp"
+   }
+  },
+  {
+   "slug": "birds-of-the-world-workbook-ages-9-12",
+   "category": "workbook",
+   "title": "Birds of the World",
+   "series": "Watch, Wonder & Write",
+   "topic": "birds-of-the-world",
+   "topic_name": "Birds of the World",
+   "age": "9-12",
+   "age_label": "9–12",
+   "hook": "Discover a world beyond feathers.",
+   "short": "Ages 9–12",
+   "blurb": [
+    "Remarkable displays. Ingenious builders. Birds that thrive in extraordinary places. Discover how the world’s birds are adapted to their lives.",
+    "Watch, Wonder & Write: Birds of the World pairs independently created videos with questions that encourage careful observation and thoughtful answers.",
+    "Follow the video links or scan the QR codes, pause when you need to, and put your discoveries into words.",
+    "For curious minds aged 9–12."
+   ],
+   "facts": {
+    "Publisher": "Cloverwing Digital",
+    "Series": "Watch, Wonder & Write",
+    "Ages": "9–12",
+    "Format": "Paperback workbook",
+    "You will need": "Internet access and a device that can play YouTube",
+    "Good to know": "Adult guidance is recommended. The videos are hosted independently and may change or become unavailable."
+   },
+   "tone": "sage",
+   "aspect": "1055 / 1491",
+   "links": {},
+   "covers": {
+    "front": "img/covers/birds-of-the-world-9-12-front.webp",
+    "back": "img/covers/birds-of-the-world-9-12-back.webp"
+   }
+  },
+  {
+   "slug": "birds-of-the-world-workbook-ages-13-16",
+   "category": "workbook",
+   "title": "Birds of the World",
+   "series": "Watch, Wonder & Write",
+   "topic": "birds-of-the-world",
+   "topic_name": "Birds of the World",
+   "age": "13-16",
+   "age_label": "13–16",
+   "hook": "A different perspective on birds.",
+   "short": "Ages 13–16",
+   "blurb": [
+    "Extraordinary adaptations. Complex behaviour. From courtship displays to life in extreme habitats, birds offer a remarkable window into the natural world.",
+    "Watch, Wonder & Write: Birds of the World pairs independently created videos with questions that invite you to observe closely, think critically and explain what you discover.",
+    "Follow the video links or QR codes, pause when you need to, and develop your ideas at your own pace."
+   ],
+   "facts": {
+    "Publisher": "Cloverwing Digital",
+    "Series": "Watch, Wonder & Write",
+    "Ages": "13–16",
+    "Format": "Paperback workbook",
+    "You will need": "Internet access and a device that can play YouTube",
+    "Good to know": "The videos are hosted independently and may change or become unavailable."
+   },
+   "tone": "sage",
+   "aspect": "1055 / 1491",
+   "links": {},
+   "covers": {
+    "front": "img/covers/birds-of-the-world-13-16-front.webp",
+    "back": "img/covers/birds-of-the-world-13-16-back.webp"
+   }
+  },
+  {
+   "slug": "bugs-and-amphibians-workbook-ages-6-8",
+   "category": "workbook",
+   "title": "Bugs & Amphibians",
+   "series": "Watch, Wonder & Write",
+   "topic": "bugs-and-amphibians",
+   "topic_name": "Bugs & Amphibians",
+   "age": "6-8",
+   "age_label": "6–8",
+   "hook": "Small creatures. Big discoveries!",
+   "short": "Ages 6–8",
+   "blurb": [
+    "How do caterpillars change into butterflies? What makes a frog such a good jumper? Discover the surprising lives of bugs and amphibians.",
+    "Watch, Wonder & Write: Bugs & Amphibians invites young explorers to watch fascinating videos and answer simple follow-along questions.",
+    "Watch together, pause when you need to, and write down what you discover. Look closely and explore a world of tiny wonders.",
+    "For curious explorers aged 6–8."
+   ],
+   "facts": {
+    "Publisher": "Cloverwing Digital",
+    "Series": "Watch, Wonder & Write",
+    "Ages": "6–8",
+    "Format": "Paperback workbook",
+    "You will need": "Internet access and a device that can play YouTube",
+    "Good to know": "Adult guidance is recommended. Some videos include hunting and feeding scenes. The videos are hosted independently and may change or become unavailable."
+   },
+   "tone": "sage",
+   "aspect": "1055 / 1491",
+   "links": {},
+   "covers": {
+    "front": "img/covers/bugs-and-amphibians-6-8-front.webp",
+    "back": "img/covers/bugs-and-amphibians-6-8-back.webp"
+   }
+  },
+  {
+   "slug": "bugs-and-amphibians-workbook-ages-9-12",
+   "category": "workbook",
+   "title": "Bugs & Amphibians",
+   "series": "Watch, Wonder & Write",
+   "topic": "bugs-and-amphibians",
+   "topic_name": "Bugs & Amphibians",
+   "age": "9-12",
+   "age_label": "9–12",
+   "hook": "Look closer. Discover another world.",
+   "short": "Ages 9–12",
+   "blurb": [
+    "Ingenious hunters. Remarkable transformations. Life in miniature is full of surprises. Discover the adaptations and behaviours of bugs and amphibians.",
+    "Watch, Wonder & Write: Bugs & Amphibians pairs independently created videos with questions that encourage careful observation and thoughtful answers.",
+    "Follow the video links or scan the QR codes, pause when you need to, and put your discoveries into words.",
+    "For curious minds aged 9–12."
+   ],
+   "facts": {
+    "Publisher": "Cloverwing Digital",
+    "Series": "Watch, Wonder & Write",
+    "Ages": "9–12",
+    "Format": "Paperback workbook",
+    "You will need": "Internet access and a device that can play YouTube",
+    "Good to know": "Adult guidance is recommended. Some videos include hunting and feeding scenes. The videos are hosted independently and may change or become unavailable."
+   },
+   "tone": "sage",
+   "aspect": "1055 / 1491",
+   "links": {},
+   "covers": {
+    "front": "img/covers/bugs-and-amphibians-9-12-front.webp",
+    "back": "img/covers/bugs-and-amphibians-9-12-back.webp"
+   }
+  },
+  {
+   "slug": "bugs-and-amphibians-workbook-ages-13-16",
+   "category": "workbook",
+   "title": "Bugs & Amphibians",
+   "series": "Watch, Wonder & Write",
+   "topic": "bugs-and-amphibians",
+   "topic_name": "Bugs & Amphibians",
+   "age": "13-16",
+   "age_label": "13–16",
+   "hook": "A closer look changes everything.",
+   "short": "Ages 13–16",
+   "blurb": [
+    "Complex societies. Extraordinary life cycles. Specialised survival strategies. Bugs and amphibians reveal remarkable solutions to the challenges of life.",
+    "Watch, Wonder & Write: Bugs & Amphibians pairs independently created videos with questions that invite you to observe closely, think critically and explain what you discover.",
+    "Follow the video links or QR codes, pause when you need to, and develop your ideas at your own pace."
+   ],
+   "facts": {
+    "Publisher": "Cloverwing Digital",
+    "Series": "Watch, Wonder & Write",
+    "Ages": "13–16",
+    "Format": "Paperback workbook",
+    "You will need": "Internet access and a device that can play YouTube",
+    "Good to know": "Some videos include hunting and feeding scenes. The videos are hosted independently and may change or become unavailable."
+   },
+   "tone": "sage",
+   "aspect": "1055 / 1491",
+   "links": {},
+   "covers": {
+    "front": "img/covers/bugs-and-amphibians-13-16-front.webp",
+    "back": "img/covers/bugs-and-amphibians-13-16-back.webp"
+   }
+  },
+  {
+   "slug": "dinosaurs-and-prehistoric-life-workbook-ages-6-8",
+   "category": "workbook",
+   "title": "Dinosaurs & Prehistoric Life",
+   "series": "Watch, Wonder & Write",
+   "topic": "dinosaurs-and-prehistoric-life",
+   "topic_name": "Dinosaurs & Prehistoric Life",
+   "age": "6-8",
+   "age_label": "6–8",
+   "hook": "Step into a prehistoric world!",
+   "short": "Ages 6–8",
+   "blurb": [
+    "What was life like before people? How do fossils help us discover animals that lived long ago?",
+    "Watch, Wonder & Write: Dinosaurs & Prehistoric Life pairs 27 documentaries with simple follow-along questions for young explorers.",
+    "Meet dinosaurs and other prehistoric creatures. Watch together, pause when you need to, and write down what you discover.",
+    "For curious explorers aged 6–8."
+   ],
+   "facts": {
+    "Publisher": "Cloverwing Digital",
+    "Series": "Watch, Wonder & Write",
+    "Ages": "6–8",
+    "Format": "Paperback workbook",
+    "You will need": "Internet access and a device that can play YouTube",
+    "Good to know": "Adult previewing and guidance are recommended. Please check the viewing notes inside. The videos are made by third parties and may change or become unavailable."
+   },
+   "tone": "sage",
+   "aspect": "1055 / 1491",
+   "links": {},
+   "covers": {
+    "front": "img/covers/dinosaurs-and-prehistoric-life-6-8-front.webp",
+    "back": "img/covers/dinosaurs-and-prehistoric-life-6-8-back.webp"
+   }
+  },
+  {
+   "slug": "dinosaurs-and-prehistoric-life-workbook-ages-9-12",
+   "category": "workbook",
+   "title": "Dinosaurs & Prehistoric Life",
+   "series": "Watch, Wonder & Write",
+   "topic": "dinosaurs-and-prehistoric-life",
+   "topic_name": "Dinosaurs & Prehistoric Life",
+   "age": "9-12",
+   "age_label": "9–12",
+   "hook": "Uncover the clues to lost worlds.",
+   "short": "Ages 9–12",
+   "blurb": [
+    "How do fossils reveal the past? What helped prehistoric animals survive, and why did some disappear?",
+    "Watch, Wonder & Write: Dinosaurs & Prehistoric Life pairs 27 documentaries with follow-along questions that encourage careful observation and thoughtful answers.",
+    "Explore dinosaurs, ancient seas and Ice Age giants. Follow the timestamps, pause to think, and put your discoveries into words.",
+    "For curious minds aged 9–12."
+   ],
+   "facts": {
+    "Publisher": "Cloverwing Digital",
+    "Series": "Watch, Wonder & Write",
+    "Ages": "9–12",
+    "Format": "Paperback workbook",
+    "You will need": "Internet access and a device that can play YouTube",
+    "Good to know": "Adult guidance is recommended. Please check the viewing notes inside. The videos are made by third parties and may change or become unavailable."
+   },
+   "tone": "sage",
+   "aspect": "1055 / 1491",
+   "links": {},
+   "covers": {
+    "front": "img/covers/dinosaurs-and-prehistoric-life-9-12-front.webp",
+    "back": "img/covers/dinosaurs-and-prehistoric-life-9-12-back.webp"
+   }
+  },
+  {
+   "slug": "dinosaurs-and-prehistoric-life-workbook-ages-13-16",
+   "category": "workbook",
+   "title": "Dinosaurs & Prehistoric Life",
+   "series": "Watch, Wonder & Write",
+   "topic": "dinosaurs-and-prehistoric-life",
+   "topic_name": "Dinosaurs & Prehistoric Life",
+   "age": "13-16",
+   "age_label": "13–16",
+   "hook": "Examine the evidence. Reimagine the past.",
+   "short": "Ages 13–16",
+   "blurb": [
+    "Fossils preserve fragments of vanished worlds. How do scientists turn those clues into explanations of life on Earth?",
+    "Watch, Wonder & Write: Dinosaurs & Prehistoric Life pairs 27 documentaries with questions that encourage close observation, analysis and independent research.",
+    "Explore prehistoric animals, changing environments and mass extinctions. Consider the evidence, investigate competing ideas and explain your conclusions in your own words."
+   ],
+   "facts": {
+    "Publisher": "Cloverwing Digital",
+    "Series": "Watch, Wonder & Write",
+    "Ages": "13–16",
+    "Format": "Paperback workbook",
+    "You will need": "Internet access and a device that can play YouTube",
+    "Good to know": "Please check the viewing notes inside. The videos are made by third parties and may change or become unavailable."
+   },
+   "tone": "sage",
+   "aspect": "1055 / 1491",
+   "links": {},
+   "covers": {
+    "front": "img/covers/dinosaurs-and-prehistoric-life-13-16-front.webp",
+    "back": "img/covers/dinosaurs-and-prehistoric-life-13-16-back.webp"
+   }
+  },
+  {
+   "slug": "farm-animals-workbook-ages-6-8",
+   "category": "workbook",
+   "title": "Farm Animals",
+   "series": "Watch, Wonder & Write",
+   "topic": "farm-animals",
+   "topic_name": "Farm Animals",
+   "age": "6-8",
+   "age_label": "6–8",
+   "hook": "Meet working animals across 24 fascinating films.",
+   "short": "Ages 6–8",
+   "blurb": [
+    "Discover how horses, herding dogs, bees, cattle and other animals live alongside people, then watch closely and write what you learn."
+   ],
+   "facts": {
+    "Publisher": "Cloverwing Digital",
+    "Series": "Watch, Wonder & Write",
+    "Ages": "6–8",
+    "Format": "Paperback workbook",
+    "You will need": "Internet access and a device that can play YouTube",
+    "Good to know": "The videos are made by third parties and may change or become unavailable."
+   },
+   "tone": "sage",
+   "aspect": "1055 / 1491",
+   "links": {},
+   "covers": {
+    "front": "img/covers/farm-animals-6-8-front.webp",
+    "back": "img/covers/farm-animals-6-8-back.webp"
+   }
+  },
+  {
+   "slug": "farm-animals-workbook-ages-9-12",
+   "category": "workbook",
+   "title": "Farm Animals",
+   "series": "Watch, Wonder & Write",
+   "topic": "farm-animals",
+   "topic_name": "Farm Animals",
+   "age": "9-12",
+   "age_label": "9–12",
+   "hook": "Meet working animals across 24 fascinating films.",
+   "short": "Ages 9–12",
+   "blurb": [
+    "Discover how horses, herding dogs, bees, cattle and other animals live alongside people, then watch closely and write what you learn."
+   ],
+   "facts": {
+    "Publisher": "Cloverwing Digital",
+    "Series": "Watch, Wonder & Write",
+    "Ages": "9–12",
+    "Format": "Paperback workbook",
+    "You will need": "Internet access and a device that can play YouTube",
+    "Good to know": "The videos are made by third parties and may change or become unavailable."
+   },
+   "tone": "sage",
+   "aspect": "1055 / 1491",
+   "links": {},
+   "covers": {
+    "front": "img/covers/farm-animals-9-12-front.webp",
+    "back": "img/covers/farm-animals-9-12-back.webp"
+   }
+  },
+  {
+   "slug": "farm-animals-workbook-ages-13-16",
+   "category": "workbook",
+   "title": "Farm Animals",
+   "series": "Watch, Wonder & Write",
+   "topic": "farm-animals",
+   "topic_name": "Farm Animals",
+   "age": "13-16",
+   "age_label": "13–16",
+   "hook": "Meet working animals across 24 fascinating films.",
+   "short": "Ages 13–16",
+   "blurb": [
+    "Discover how horses, herding dogs, bees, cattle and other animals live alongside people, then watch closely and write what you learn."
+   ],
+   "facts": {
+    "Publisher": "Cloverwing Digital",
+    "Series": "Watch, Wonder & Write",
+    "Ages": "13–16",
+    "Format": "Paperback workbook",
+    "You will need": "Internet access and a device that can play YouTube",
+    "Good to know": "The videos are made by third parties and may change or become unavailable."
+   },
+   "tone": "sage",
+   "aspect": "1055 / 1491",
+   "links": {},
+   "covers": {
+    "front": "img/covers/farm-animals-13-16-front.webp",
+    "back": "img/covers/farm-animals-13-16-back.webp"
+   }
+  },
+  {
+   "slug": "hunters-workbook-ages-6-8",
+   "category": "workbook",
+   "title": "Hunters",
+   "series": "Watch, Wonder & Write",
+   "topic": "hunters",
+   "topic_name": "Hunters",
+   "age": "6-8",
+   "age_label": "6–8",
+   "hook": "Big paws. Sharp senses. Wild discoveries!",
+   "short": "Ages 6–8",
+   "blurb": [
+    "How do wild hunters find food? Why do some live in groups while others explore alone?",
+    "Watch, Wonder & Write: Hunters invites young wildlife explorers to discover 20 fascinating animals through documentaries and simple follow-along questions.",
+    "Watch together, pause when you need to, and write down what you notice about life in the wild.",
+    "For curious explorers aged 6–8."
+   ],
+   "facts": {
+    "Publisher": "Cloverwing Digital",
+    "Series": "Watch, Wonder & Write",
+    "Ages": "6–8",
+    "Format": "Paperback workbook",
+    "You will need": "Internet access and a device that can play YouTube",
+    "Good to know": "Adult previewing and guidance are recommended. Films include hunting and feeding scenes; some are marked for older viewers. Please check the notes inside. The videos are made by third parties and may change or become unavailable."
+   },
+   "tone": "sage",
+   "aspect": "1055 / 1491",
+   "links": {},
+   "covers": {
+    "front": "img/covers/hunters-6-8-front.webp",
+    "back": "img/covers/hunters-6-8-back.webp"
+   }
+  },
+  {
+   "slug": "hunters-workbook-ages-9-12",
+   "category": "workbook",
+   "title": "Hunters",
+   "series": "Watch, Wonder & Write",
+   "topic": "hunters",
+   "topic_name": "Hunters",
+   "age": "9-12",
+   "age_label": "9–12",
+   "hook": "Follow the clues. Discover the hunters.",
+   "short": "Ages 9–12",
+   "blurb": [
+    "Silent stalkers, swift sprinters and powerful pack hunters: discover the different ways wild animals survive.",
+    "Watch, Wonder & Write: Hunters pairs 20 wildlife documentaries with follow-along questions that encourage careful observation and thoughtful answers.",
+    "Explore animal behaviour, habitats and survival strategies. Use the timestamps to find key moments, pause when you need to, and put your discoveries into words.",
+    "For curious minds aged 9–12."
+   ],
+   "facts": {
+    "Publisher": "Cloverwing Digital",
+    "Series": "Watch, Wonder & Write",
+    "Ages": "9–12",
+    "Format": "Paperback workbook",
+    "You will need": "Internet access and a device that can play YouTube",
+    "Good to know": "Adult guidance is recommended: films include hunting and feeding scenes. Please check the notes inside. The videos are made by third parties and may change or become unavailable."
+   },
+   "tone": "sage",
+   "aspect": "1055 / 1491",
+   "links": {},
+   "covers": {
+    "front": "img/covers/hunters-9-12-front.webp",
+    "back": "img/covers/hunters-9-12-back.webp"
+   }
+  },
+  {
+   "slug": "hunters-workbook-ages-13-16",
+   "category": "workbook",
+   "title": "Hunters",
+   "series": "Watch, Wonder & Write",
+   "topic": "hunters",
+   "topic_name": "Hunters",
+   "age": "13-16",
+   "age_label": "13–16",
+   "hook": "Observe the strategy. Understand the survival.",
+   "short": "Ages 13–16",
+   "blurb": [
+    "Speed, stealth, strength and cooperation: wild hunters have evolved remarkable ways to survive.",
+    "Watch, Wonder & Write: Hunters pairs 20 wildlife documentaries with questions that invite you to look closely at animal behaviour, adaptations and life in the wild.",
+    "Follow the timestamps, examine what the films reveal and explain your observations in your own words."
+   ],
+   "facts": {
+    "Publisher": "Cloverwing Digital",
+    "Series": "Watch, Wonder & Write",
+    "Ages": "13–16",
+    "Format": "Paperback workbook",
+    "You will need": "Internet access and a device that can play YouTube",
+    "Good to know": "Films include hunting and feeding scenes; consult the guidance notes inside. The videos are made by third parties and may change or become unavailable."
+   },
+   "tone": "sage",
+   "aspect": "1055 / 1491",
+   "links": {},
+   "covers": {
+    "front": "img/covers/hunters-13-16-front.webp",
+    "back": "img/covers/hunters-13-16-back.webp"
+   }
+  },
+  {
+   "slug": "hunters-and-giants-of-the-sky-workbook-ages-6-8",
+   "category": "workbook",
+   "title": "Hunters & Giants of the Sky",
+   "series": "Watch, Wonder & Write",
+   "topic": "hunters-and-giants-of-the-sky",
+   "topic_name": "Hunters & Giants of the Sky",
+   "age": "6-8",
+   "age_label": "6–8",
+   "hook": "Meet some truly remarkable birds!",
+   "short": "Ages 6–8",
+   "blurb": [
+    "How does an owl hunt in the dark? What makes an eagle such a strong flyer? Discover birds with amazing senses, powerful wings and extraordinary ways to survive.",
+    "Watch, Wonder & Write: Hunters & Giants of the Sky invites young explorers to watch fascinating videos and answer simple follow-along questions.",
+    "Watch together, pause when you need to, and write down what you discover. Every bird has something surprising to teach us.",
+    "For curious birdwatchers aged 6–8."
+   ],
+   "facts": {
+    "Publisher": "Cloverwing Digital",
+    "Series": "Watch, Wonder & Write",
+    "Ages": "6–8",
+    "Format": "Paperback workbook",
+    "You will need": "Internet access and a device that can play YouTube",
+    "Good to know": "Adult guidance is recommended. Some videos include hunting scenes. Independently hosted videos may change or become unavailable."
+   },
+   "tone": "sage",
+   "aspect": "1055 / 1491",
+   "links": {},
+   "covers": {
+    "front": "img/covers/hunters-and-giants-of-the-sky-6-8-front.webp",
+    "back": "img/covers/hunters-and-giants-of-the-sky-6-8-back.webp"
+   }
+  },
+  {
+   "slug": "hunters-and-giants-of-the-sky-workbook-ages-9-12",
+   "category": "workbook",
+   "title": "Hunters & Giants of the Sky",
+   "series": "Watch, Wonder & Write",
+   "topic": "hunters-and-giants-of-the-sky",
+   "topic_name": "Hunters & Giants of the Sky",
+   "age": "9-12",
+   "age_label": "9–12",
+   "hook": "Look up. Look closer.",
+   "short": "Ages 9–12",
+   "blurb": [
+    "From silent owls to powerful eagles and towering flightless birds, discover the adaptations that make these hunters and giants extraordinary.",
+    "Watch, Wonder & Write: Hunters & Giants of the Sky pairs independently created videos with questions that encourage careful observation and thoughtful answers.",
+    "Explore remarkable senses, specialised bodies and surprising behaviours. Follow the video links or scan the QR codes, pause when you need to, and put your discoveries into words.",
+    "For curious minds aged 9–12."
+   ],
+   "facts": {
+    "Publisher": "Cloverwing Digital",
+    "Series": "Watch, Wonder & Write",
+    "Ages": "9–12",
+    "Format": "Paperback workbook",
+    "You will need": "Internet access and a device that can play YouTube",
+    "Good to know": "Adult guidance is recommended. Some videos include hunting scenes. Independently hosted videos may change or become unavailable."
+   },
+   "tone": "sage",
+   "aspect": "1055 / 1491",
+   "links": {},
+   "covers": {
+    "front": "img/covers/hunters-and-giants-of-the-sky-9-12-front.webp",
+    "back": "img/covers/hunters-and-giants-of-the-sky-9-12-back.webp"
+   }
+  },
+  {
+   "slug": "hunters-and-giants-of-the-sky-workbook-ages-13-16",
+   "category": "workbook",
+   "title": "Hunters & Giants of the Sky",
+   "series": "Watch, Wonder & Write",
+   "topic": "hunters-and-giants-of-the-sky",
+   "topic_name": "Hunters & Giants of the Sky",
+   "age": "13-16",
+   "age_label": "13–16",
+   "hook": "Power. Precision. Perspective.",
+   "short": "Ages 13–16",
+   "blurb": [
+    "Silent flight. Exceptional senses. Extraordinary scale. Explore the adaptations that make these hunters and giants so remarkable.",
+    "Watch, Wonder & Write: Hunters & Giants of the Sky pairs independently created videos with questions that invite you to observe closely, think critically and explain what you discover.",
+    "Consider how specialised bodies and behaviours help birds survive. Follow the video links or QR codes, pause when you need to, and develop your ideas at your own pace."
+   ],
+   "facts": {
+    "Publisher": "Cloverwing Digital",
+    "Series": "Watch, Wonder & Write",
+    "Ages": "13–16",
+    "Format": "Paperback workbook",
+    "You will need": "Internet access and a device that can play YouTube",
+    "Good to know": "Some videos include hunting scenes. Independently hosted videos may change or become unavailable."
+   },
+   "tone": "sage",
+   "aspect": "1055 / 1491",
+   "links": {},
+   "covers": {
+    "front": "img/covers/hunters-and-giants-of-the-sky-13-16-front.webp",
+    "back": "img/covers/hunters-and-giants-of-the-sky-13-16-back.webp"
+   }
+  },
+  {
+   "slug": "ocean-life-workbook-ages-6-8",
+   "category": "workbook",
+   "title": "Ocean Life",
+   "series": "Watch, Wonder & Write",
+   "topic": "ocean-life",
+   "topic_name": "Ocean Life",
+   "age": "6-8",
+   "age_label": "6–8",
+   "hook": "Dive into a world of wonder!",
+   "short": "Ages 6–8",
+   "blurb": [
+    "Why do clownfish live among anemones? How does an octopus explore its world? There is so much to discover beneath the waves.",
+    "Watch, Wonder & Write: Ocean Life invites young explorers to watch fascinating videos and answer simple follow-along questions.",
+    "Watch together, pause when you need to, and write down what you discover. Every video is a chance to look closely, ask questions and learn something new.",
+    "For curious ocean explorers aged 6–8."
+   ],
+   "facts": {
+    "Publisher": "Cloverwing Digital",
+    "Series": "Watch, Wonder & Write",
+    "Ages": "6–8",
+    "Format": "Paperback workbook",
+    "You will need": "Internet access and a device that can play YouTube",
+    "Good to know": "Adult guidance is recommended. Independently hosted videos may change or become unavailable."
+   },
+   "tone": "sage",
+   "aspect": "1055 / 1491",
+   "links": {},
+   "covers": {
+    "front": "img/covers/ocean-life-6-8-front.webp",
+    "back": "img/covers/ocean-life-6-8-back.webp"
+   }
+  },
+  {
+   "slug": "ocean-life-workbook-ages-9-12",
+   "category": "workbook",
+   "title": "Ocean Life",
+   "series": "Watch, Wonder & Write",
+   "topic": "ocean-life",
+   "topic_name": "Ocean Life",
+   "age": "9-12",
+   "age_label": "9–12",
+   "hook": "Explore beneath the surface.",
+   "short": "Ages 9–12",
+   "blurb": [
+    "From coral reefs to kelp forests, ocean life is full of surprising adaptations. How do animals find food, avoid danger and make the most of their habitats?",
+    "Watch, Wonder & Write: Ocean Life pairs independently created videos with questions that encourage careful observation and thoughtful answers.",
+    "Follow the video links or scan the QR codes, pause when you need to, and put your discoveries into words.",
+    "For curious minds aged 9–12."
+   ],
+   "facts": {
+    "Publisher": "Cloverwing Digital",
+    "Series": "Watch, Wonder & Write",
+    "Ages": "9–12",
+    "Format": "Paperback workbook",
+    "You will need": "Internet access and a device that can play YouTube",
+    "Good to know": "Adult guidance is recommended. Independently hosted videos may change or become unavailable."
+   },
+   "tone": "sage",
+   "aspect": "1055 / 1491",
+   "links": {},
+   "covers": {
+    "front": "img/covers/ocean-life-9-12-front.webp",
+    "back": "img/covers/ocean-life-9-12-back.webp"
+   }
+  },
+  {
+   "slug": "ocean-life-workbook-ages-13-16",
+   "category": "workbook",
+   "title": "Ocean Life",
+   "series": "Watch, Wonder & Write",
+   "topic": "ocean-life",
+   "topic_name": "Ocean Life",
+   "age": "13-16",
+   "age_label": "13–16",
+   "hook": "A different depth of discovery.",
+   "short": "Ages 13–16",
+   "blurb": [
+    "Extraordinary adaptations. Interconnected habitats. Life beneath the surface is more complex than it first appears.",
+    "Watch, Wonder & Write: Ocean Life pairs independently created videos with questions that invite you to observe closely, think critically and explain what you discover.",
+    "Explore ocean habitats and the animals that depend on them. Follow the video links or QR codes, pause when you need to, and develop your ideas at your own pace."
+   ],
+   "facts": {
+    "Publisher": "Cloverwing Digital",
+    "Series": "Watch, Wonder & Write",
+    "Ages": "13–16",
+    "Format": "Paperback workbook",
+    "You will need": "Internet access and a device that can play YouTube",
+    "Good to know": "Independently hosted videos may change or become unavailable."
+   },
+   "tone": "sage",
+   "aspect": "1055 / 1491",
+   "links": {},
+   "covers": {
+    "front": "img/covers/ocean-life-13-16-front.webp",
+    "back": "img/covers/ocean-life-13-16-back.webp"
+   }
+  },
+  {
+   "slug": "ocean-predators-workbook-ages-6-8",
+   "category": "workbook",
+   "title": "Ocean Predators",
+   "series": "Watch, Wonder & Write",
+   "topic": "ocean-predators",
+   "topic_name": "Ocean Predators",
+   "age": "6-8",
+   "age_label": "6–8",
+   "hook": "Meet the ocean’s amazing hunters!",
+   "short": "Ages 6–8",
+   "blurb": [
+    "How does an orca find its food? Why does a hammerhead have such an unusual head? Discover the clever ways ocean predators survive.",
+    "Watch, Wonder & Write: Ocean Predators invites young explorers to watch fascinating videos and answer simple follow-along questions.",
+    "Watch together, pause when you need to, and write down what you discover. Look closely, ask questions and explore the wonders of ocean wildlife.",
+    "For curious ocean explorers aged 6–8."
+   ],
+   "facts": {
+    "Publisher": "Cloverwing Digital",
+    "Series": "Watch, Wonder & Write",
+    "Ages": "6–8",
+    "Format": "Paperback workbook",
+    "You will need": "Internet access and a device that can play YouTube",
+    "Good to know": "Adult guidance is recommended. Some videos include hunting scenes. Independently hosted videos may change or become unavailable."
+   },
+   "tone": "sage",
+   "aspect": "1055 / 1491",
+   "links": {},
+   "covers": {
+    "front": "img/covers/ocean-predators-6-8-front.webp",
+    "back": "img/covers/ocean-predators-6-8-back.webp"
+   }
+  },
+  {
+   "slug": "ocean-predators-workbook-ages-9-12",
+   "category": "workbook",
+   "title": "Ocean Predators",
+   "series": "Watch, Wonder & Write",
+   "topic": "ocean-predators",
+   "topic_name": "Ocean Predators",
+   "age": "9-12",
+   "age_label": "9–12",
+   "hook": "Discover what makes a hunter.",
+   "short": "Ages 9–12",
+   "blurb": [
+    "Speed, camouflage and remarkable senses: ocean predators have extraordinary ways to survive. Look beyond sharp teeth and discover the adaptations that make each animal unique.",
+    "Watch, Wonder & Write: Ocean Predators pairs independently created videos with questions that encourage careful observation and thoughtful answers.",
+    "Follow the video links or scan the QR codes, pause when you need to, and put your discoveries into words.",
+    "For curious minds aged 9–12."
+   ],
+   "facts": {
+    "Publisher": "Cloverwing Digital",
+    "Series": "Watch, Wonder & Write",
+    "Ages": "9–12",
+    "Format": "Paperback workbook",
+    "You will need": "Internet access and a device that can play YouTube",
+    "Good to know": "Adult guidance is recommended. Some videos include hunting scenes. Independently hosted videos may change or become unavailable."
+   },
+   "tone": "sage",
+   "aspect": "1055 / 1491",
+   "links": {},
+   "covers": {
+    "front": "img/covers/ocean-predators-9-12-front.webp",
+    "back": "img/covers/ocean-predators-9-12-back.webp"
+   }
+  },
+  {
+   "slug": "ocean-predators-workbook-ages-13-16",
+   "category": "workbook",
+   "title": "Ocean Predators",
+   "series": "Watch, Wonder & Write",
+   "topic": "ocean-predators",
+   "topic_name": "Ocean Predators",
+   "age": "13-16",
+   "age_label": "13–16",
+   "hook": "Beyond the reputation.",
+   "short": "Ages 13–16",
+   "blurb": [
+    "Precision senses. Powerful adaptations. Complex behaviour. Ocean predators reveal far more than their fearsome reputations suggest.",
+    "Watch, Wonder & Write: Ocean Predators pairs independently created videos with questions that invite you to observe closely, think critically and explain what you discover.",
+    "Explore how predators survive and the roles they play in their ecosystems. Follow the video links or QR codes, pause when you need to, and develop your ideas at your own pace."
+   ],
+   "facts": {
+    "Publisher": "Cloverwing Digital",
+    "Series": "Watch, Wonder & Write",
+    "Ages": "13–16",
+    "Format": "Paperback workbook",
+    "You will need": "Internet access and a device that can play YouTube",
+    "Good to know": "Some videos include hunting scenes. Independently hosted videos may change or become unavailable."
+   },
+   "tone": "sage",
+   "aspect": "1055 / 1491",
+   "links": {},
+   "covers": {
+    "front": "img/covers/ocean-predators-13-16-front.webp",
+    "back": "img/covers/ocean-predators-13-16-back.webp"
+   }
+  },
+  {
+   "slug": "plants-workbook-ages-6-8",
+   "category": "workbook",
+   "title": "Plants",
+   "series": "Watch, Wonder & Write",
+   "topic": "plants",
+   "topic_name": "Plants",
+   "age": "6-8",
+   "age_label": "6–8",
+   "hook": "From towering trees to tiny seeds, plants are full of surprises.",
+   "short": "Ages 6–8",
+   "blurb": [
+    "Follow 24 films through forests, grasslands, farms, and gardens. Discover how plants grow, help living things, and shape our world. Watch and write what you notice."
+   ],
+   "facts": {
+    "Publisher": "Cloverwing Digital",
+    "Series": "Watch, Wonder & Write",
+    "Ages": "6–8",
+    "Format": "Paperback workbook",
+    "You will need": "Internet access and a device that can play YouTube",
+    "Good to know": "Independently hosted videos may change or become unavailable."
+   },
+   "tone": "sage",
+   "aspect": "1055 / 1491",
+   "links": {},
+   "covers": {
+    "front": "img/covers/plants-6-8-front.webp",
+    "back": "img/covers/plants-6-8-back.webp"
+   }
+  },
+  {
+   "slug": "plants-workbook-ages-9-12",
+   "category": "workbook",
+   "title": "Plants",
+   "series": "Watch, Wonder & Write",
+   "topic": "plants",
+   "topic_name": "Plants",
+   "age": "9-12",
+   "age_label": "9–12",
+   "hook": "Explore the remarkable variety of plant life through 24 films.",
+   "short": "Ages 9–12",
+   "blurb": [
+    "Investigate ancient trees, tropical forests, crops, wetlands, and the ways people use and protect plants. Follow each question as you watch, then put your discoveries into words."
+   ],
+   "facts": {
+    "Publisher": "Cloverwing Digital",
+    "Series": "Watch, Wonder & Write",
+    "Ages": "9–12",
+    "Format": "Paperback workbook",
+    "You will need": "Internet access and a device that can play YouTube",
+    "Good to know": "Independently hosted videos may change or become unavailable."
+   },
+   "tone": "sage",
+   "aspect": "1055 / 1491",
+   "links": {},
+   "covers": {
+    "front": "img/covers/plants-9-12-front.webp",
+    "back": "img/covers/plants-9-12-back.webp"
+   }
+  },
+  {
+   "slug": "plants-workbook-ages-13-16",
+   "category": "workbook",
+   "title": "Plants",
+   "series": "Watch, Wonder & Write",
+   "topic": "plants",
+   "topic_name": "Plants",
+   "age": "13-16",
+   "age_label": "13–16",
+   "hook": "Across 24 films, examine plants as living systems and vital resources.",
+   "short": "Ages 13–16",
+   "blurb": [
+    "From ancient trees and cloud forests to food crops and modern farming, explore adaptation, ecology, and human impact. Watch critically, connect ideas, and write your own conclusions."
+   ],
+   "facts": {
+    "Publisher": "Cloverwing Digital",
+    "Series": "Watch, Wonder & Write",
+    "Ages": "13–16",
+    "Format": "Paperback workbook",
+    "You will need": "Internet access and a device that can play YouTube",
+    "Good to know": "Independently hosted videos may change or become unavailable."
+   },
+   "tone": "sage",
+   "aspect": "1055 / 1491",
+   "links": {},
+   "covers": {
+    "front": "img/covers/plants-13-16-front.webp",
+    "back": "img/covers/plants-13-16-back.webp"
+   }
+  },
+  {
+   "slug": "reptiles-workbook-ages-6-8",
+   "category": "workbook",
+   "title": "Reptiles",
+   "series": "Watch, Wonder & Write",
+   "topic": "reptiles",
+   "topic_name": "Reptiles",
+   "age": "6-8",
+   "age_label": "6–8",
+   "hook": "Scales, shells and surprising discoveries!",
+   "short": "Ages 6–8",
+   "blurb": [
+    "Why do reptiles bask in the sun? How do they move, find food and survive in different habitats?",
+    "Watch, Wonder & Write: Reptiles invites young explorers to discover the world of reptiles through 23 documentaries and simple follow-along questions.",
+    "Watch together, pause when you need to, and write down what you notice about these remarkable animals.",
+    "For curious explorers aged 6–8."
+   ],
+   "facts": {
+    "Publisher": "Cloverwing Digital",
+    "Series": "Watch, Wonder & Write",
+    "Ages": "6–8",
+    "Format": "Paperback workbook",
+    "You will need": "Internet access and a device that can play YouTube",
+    "Good to know": "Adult previewing and guidance are recommended. Films include hunting and feeding scenes; some are marked for older viewers. Please check the notes inside. Independently hosted videos may change or become unavailable."
+   },
+   "tone": "sage",
+   "aspect": "1055 / 1491",
+   "links": {},
+   "covers": {
+    "front": "img/covers/reptiles-6-8-front.webp",
+    "back": "img/covers/reptiles-6-8-back.webp"
+   }
+  },
+  {
+   "slug": "reptiles-workbook-ages-9-12",
+   "category": "workbook",
+   "title": "Reptiles",
+   "series": "Watch, Wonder & Write",
+   "topic": "reptiles",
+   "topic_name": "Reptiles",
+   "age": "9-12",
+   "age_label": "9–12",
+   "hook": "Look closer. Discover a remarkable world.",
+   "short": "Ages 9–12",
+   "blurb": [
+    "Armoured bodies, clever camouflage and extraordinary survival skills: reptiles have adapted to life in remarkable ways.",
+    "Watch, Wonder & Write: Reptiles pairs 23 documentaries with follow-along questions that encourage careful observation and thoughtful answers.",
+    "Explore reptile behaviour, habitats and adaptations. Use the timestamps to find key moments, pause when you need to, and put your discoveries into words.",
+    "For curious minds aged 9–12."
+   ],
+   "facts": {
+    "Publisher": "Cloverwing Digital",
+    "Series": "Watch, Wonder & Write",
+    "Ages": "9–12",
+    "Format": "Paperback workbook",
+    "You will need": "Internet access and a device that can play YouTube",
+    "Good to know": "Adult guidance is recommended: films include hunting and feeding scenes. Please check the notes inside. Independently hosted videos may change or become unavailable."
+   },
+   "tone": "sage",
+   "aspect": "1055 / 1491",
+   "links": {},
+   "covers": {
+    "front": "img/covers/reptiles-9-12-front.webp",
+    "back": "img/covers/reptiles-9-12-back.webp"
+   }
+  },
+  {
+   "slug": "reptiles-workbook-ages-13-16",
+   "category": "workbook",
+   "title": "Reptiles",
+   "series": "Watch, Wonder & Write",
+   "topic": "reptiles",
+   "topic_name": "Reptiles",
+   "age": "13-16",
+   "age_label": "13–16",
+   "hook": "Examine the adaptations. Discover the survival.",
+   "short": "Ages 13–16",
+   "blurb": [
+    "Camouflage, protective shells and specialised senses: reptiles reveal remarkable solutions to the challenges of life.",
+    "Watch, Wonder & Write: Reptiles pairs 23 documentaries with questions that invite you to look closely at animal behaviour, adaptations and habitats.",
+    "Follow the timestamps, examine what the films reveal and explain your observations in your own words."
+   ],
+   "facts": {
+    "Publisher": "Cloverwing Digital",
+    "Series": "Watch, Wonder & Write",
+    "Ages": "13–16",
+    "Format": "Paperback workbook",
+    "You will need": "Internet access and a device that can play YouTube",
+    "Good to know": "Films include hunting and feeding scenes; consult the guidance notes inside. Independently hosted videos may change or become unavailable."
+   },
+   "tone": "sage",
+   "aspect": "1055 / 1491",
+   "links": {},
+   "covers": {
+    "front": "img/covers/reptiles-13-16-front.webp",
+    "back": "img/covers/reptiles-13-16-back.webp"
+   }
+  },
+  {
+   "slug": "whales-and-giants-workbook-ages-6-8",
+   "category": "workbook",
+   "title": "Whales and Giants",
+   "series": "Watch, Wonder & Write",
+   "topic": "whales-and-giants",
+   "topic_name": "Whales and Giants",
+   "age": "6-8",
+   "age_label": "6–8",
+   "hook": "Dive into a world of wonder!",
+   "short": "Ages 6–8",
+   "blurb": [
+    "How do whales breathe? What makes a narwhal special? And which ocean giants might surprise you?",
+    "Watch, Wonder & Write: Whales and Giants invites young explorers to discover remarkable ocean animals through videos and simple follow-along questions.",
+    "Watch together, pause when you need to, and write down what you discover. Every video is a chance to look closely, ask questions and learn something new.",
+    "For curious ocean explorers aged 6–8."
+   ],
+   "facts": {
+    "Publisher": "Cloverwing Digital",
+    "Series": "Watch, Wonder & Write",
+    "Ages": "6–8",
+    "Format": "Paperback workbook",
+    "You will need": "Internet access and a device that can play YouTube",
+    "Good to know": "Adult guidance is recommended. Independently hosted videos may change or become unavailable."
+   },
+   "tone": "sage",
+   "aspect": "1055 / 1491",
+   "links": {},
+   "covers": {
+    "front": "img/covers/whales-and-giants-6-8-front.webp",
+    "back": "img/covers/whales-and-giants-6-8-back.webp"
+   }
+  },
+  {
+   "slug": "whales-and-giants-workbook-ages-9-12",
+   "category": "workbook",
+   "title": "Whales and Giants",
+   "series": "Watch, Wonder & Write",
+   "topic": "whales-and-giants",
+   "topic_name": "Whales and Giants",
+   "age": "9-12",
+   "age_label": "9–12",
+   "hook": "Explore beneath the surface.",
+   "short": "Ages 9–12",
+   "blurb": [
+    "How do ocean animals find food, communicate and survive? Discover the remarkable adaptations of whales and other marine giants.",
+    "Watch, Wonder & Write: Whales and Giants pairs independently created videos with questions that encourage careful observation and thoughtful answers.",
+    "Follow the video links or scan the QR codes, pause when you need to, and put your discoveries into words. From gentle grazers to deep-water hunters, there is always more to notice.",
+    "For curious minds aged 9–12."
+   ],
+   "facts": {
+    "Publisher": "Cloverwing Digital",
+    "Series": "Watch, Wonder & Write",
+    "Ages": "9–12",
+    "Format": "Paperback workbook",
+    "You will need": "Internet access and a device that can play YouTube",
+    "Good to know": "Adult guidance is recommended. Independently hosted videos may change or become unavailable."
+   },
+   "tone": "sage",
+   "aspect": "1055 / 1491",
+   "links": {},
+   "covers": {
+    "front": "img/covers/whales-and-giants-9-12-front.webp",
+    "back": "img/covers/whales-and-giants-9-12-back.webp"
+   }
+  },
+  {
+   "slug": "whales-and-giants-workbook-ages-13-16",
+   "category": "workbook",
+   "title": "Whales and Giants",
+   "series": "Watch, Wonder & Write",
+   "topic": "whales-and-giants",
+   "topic_name": "Whales and Giants",
+   "age": "13-16",
+   "age_label": "13–16",
+   "hook": "A different depth of discovery.",
+   "short": "Ages 13–16",
+   "blurb": [
+    "Extraordinary adaptations. Complex behaviour. Life on an immense scale.",
+    "Watch, Wonder & Write: Whales and Giants pairs independently created videos with questions that invite you to observe closely, think critically and explain what you discover.",
+    "Explore how marine animals feed, communicate and survive. Follow the video links or QR codes, pause when you need to, and develop your ideas at your own pace."
+   ],
+   "facts": {
+    "Publisher": "Cloverwing Digital",
+    "Series": "Watch, Wonder & Write",
+    "Ages": "13–16",
+    "Format": "Paperback workbook",
+    "You will need": "Internet access and a device that can play YouTube",
+    "Good to know": "Independently hosted videos may change or become unavailable."
+   },
+   "tone": "sage",
+   "aspect": "1055 / 1491",
+   "links": {},
+   "covers": {
+    "front": "img/covers/whales-and-giants-13-16-front.webp",
+    "back": "img/covers/whales-and-giants-13-16-back.webp"
+   }
+  }
+ ]
+}
