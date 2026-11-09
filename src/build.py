@@ -35,7 +35,7 @@ CATS = {
 }
 # a section with no visible books is left out of the menu, home page and build
 CATS = {k: v for k, v in CATS.items() if any(b["category"] == k for b in BOOKS)}
-STORES = {"lulu": "Lulu", "amazon": "Amazon"}
+STORES = {"lulu": "Buy on Lulu", "amazon_au": "Amazon Australia", "amazon_us": "Amazon US"}  # button order and labels
 STOREFRONTS_TOP = [("london", "London"), ("kyoto", "Kyoto"), ("new-york", "snowy New York"),
                    ("florence", "Florence"), ("havana", "Havana"), ("istanbul", "Istanbul")]
 STOREFRONTS_BOTTOM = [("hoi-an", "Hoi An"), ("sydney", "Sydney"), ("shanghai", "Shanghai"),
@@ -256,13 +256,9 @@ def book_page(b):
     thumbs = "".join(f'<button type="button" class="chip" id="view-{v}" data-view="{v}" aria-pressed="{"true" if i == 0 else "false"}">{l}</button>'
                      for i, (v, l) in enumerate(views))
     facts = "".join(f"<dt>{e(k)}</dt><dd>{e(v)}</dd>" for k, v in b.get("facts", {}).items())
-    buttons = ""
-    for i, (key, name) in enumerate(STORES.items()):
-        url = b.get("links", {}).get(key)
-        if url:
-            buttons += f'<a class="btn{" alt" if i else ""}" href="{e(url)}" target="_blank" rel="noopener">Buy on {name}</a>'
-        else:
-            buttons += f'<span class="btn soon">Coming soon to {name}</span>'
+    links = [(name, b["links"][key]) for key, name in STORES.items() if b.get("links", {}).get(key)]
+    buttons = "".join(f'<a class="btn{" alt" if i else ""}" href="{e(url)}" target="_blank" rel="noopener">{e(name)}</a>'
+                      for i, (name, url) in enumerate(links)) or '<span class="btn soon">Coming soon</span>'
     note = ("You will finish your order on Lulu or Amazon, in a new tab. They print the book and post it to you."
             if available(b) else "This one is still on its way to the printers. Check back soon.")
 

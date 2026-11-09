@@ -25,7 +25,11 @@
    },
    "tone": "butter",
    "aspect": "1 / 1",
-   "links": {},
+   "links": {
+    "lulu": "https://www.lulu.com/shop/cloverwing-studio/my-feelings/paperback/product-84q9rk5.html",
+    "amazon_au": "https://www.amazon.com.au/dp/1923943006",
+    "amazon_us": "https://www.amazon.com/dp/1923943006"
+   },
    "covers": {
     "front": "img/covers/my-feelings-front.webp",
     "back": "img/covers/my-feelings-back.webp"
@@ -49,7 +53,11 @@
    "tone": "sky",
    "aspect": "1 / 1",
    "companion": "miko-swallows-a-tooth-fairy-colouring-book",
-   "links": {},
+   "links": {
+    "lulu": "https://www.lulu.com/shop/cloverwing-studio/miko-swallows-a-tooth-fairy/paperback/product-rm2y587.html",
+    "amazon_au": "https://www.amazon.com.au/dp/1923943014",
+    "amazon_us": "https://www.amazon.com/dp/1923943014"
+   },
    "covers": {
     "front": "img/covers/miko-swallows-a-tooth-fairy-front.webp",
     "back": "img/covers/miko-swallows-a-tooth-fairy-back.webp"
